@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656230604019",
+    "firebase_url": "https://my-health-organizer-a7b7d.firebaseio.com",
+    "project_id": "my-health-organizer-a7b7d",
+    "storage_bucket": "my-health-organizer-a7b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656230604019:android:708b47804c26998c2fab86",
+        "android_client_info": {
+          "package_name": "com.example.mho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656230604019-gcn4atduujonslkesqt9sgg5e03frjd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mho",
+            "certificate_hash": "0df83c9535ff3ea462069e98a6960d75e829efba"
+          }
+        },
+        {
+          "client_id": "656230604019-9p7b795ht38c92js4drkjapqt8o6lgdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrm-jN18H_CILZaUwszAYYF242lNYXzKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656230604019-9p7b795ht38c92js4drkjapqt8o6lgdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

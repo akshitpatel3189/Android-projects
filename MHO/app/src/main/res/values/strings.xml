@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Health Organizer (MHO)</string>
+    <string name="username">Username</string>
+    <string-array name="usernme">
+        <item>Select your Role</item>
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Nurse</item>
+    </string-array>
+</resources>
