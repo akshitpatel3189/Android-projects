@@ -9,15 +9,15 @@ the existence and the appropriate encoding scheme.
 
 #### ImageSteganography Class
 
-| Java attribute     | Java set methods                | Description                                                  | Default Value |
-| :---------------- | :------------------------------ | :----------------------------------------------------------- | :-----------: |
-| Message | setMessage(...) , getMessage() | Set the value of the message, Get the value of the message. | Null      |
-| Secret_Key | setSecret_key(...) | Set the value of secret key. | Null      |
-| Image  | setImage(...) | Set the value of image.              | Null      |
-| Encoded_Image | getEncoded_image() | Get the value of the encoded image after text encoding. | Null       |
-| Encoded | isEncoded() | Check that the encoding is over or not | false       |
-| Decoded | isDecoded() | Check whether the decoding is over or not. | false       |
-| SecretKeyWrong | isSecretKeyWrong() | Check that the secret key provided was right or wrong after decoding was done. | true     |
+| Java attribute     | Java set methods                | Description                                                  |
+| :---------------- | :------------------------------ | :----------------------------------------------------------- |
+| Message | setMessage(...) , getMessage() | Set the value of the message, Get the value of the message. |
+| Secret_Key | setSecret_key(...) | Set the value of secret key. |
+| Image  | setImage(...) | Set the value of image.              |
+| Encoded_Image | getEncoded_image() | Get the value of the encoded image after text encoding. |
+| Encoded | isEncoded() | Check that the encoding is over or not |
+| Decoded | isDecoded() | Check whether the decoding is over or not. |
+| SecretKeyWrong | isSecretKeyWrong() | Check that the secret key provided was right or wrong after decoding was done. |
 
 
 ### Example App
